@@ -1,3 +1,0 @@
-hello,word 22222
-hello,word 33333
-ddddddd
